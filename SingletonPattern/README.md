@@ -20,7 +20,7 @@ Pretende-se neste exercício aplicar o padrão Singleton a uma estrutura global 
 
 ## Links
 
-* [Documentação](https://argon7.github.io/TrabalhosES2/SingletonPattern/index.html)
-* [PDF do exercício](https://argon7.github.io/TrabalhosES2/SingletonPattern/resources/singleton.png)
+* [Documentação](https://argon7.github.io/TrabalhosES2/SingletonPattern/javadoc/index.html)
+* [PDF do exercício](https://argon7.github.io/TrabalhosES2/SingletonPattern/resources/ExSingletonPattern.pdf)
 * https://sourcemaking.com/design_patterns/singleton
 
