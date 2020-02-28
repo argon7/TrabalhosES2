@@ -1,5 +1,5 @@
 # Trabalhos aula de Engenharia de Software 2
-(insert badges and shields here)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/03d17dd7587042aeaf274d3584a18c8e)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=argon7/TrabalhosES2&amp;utm_campaign=Badge_Grade)
 
 Este Repositório contêm Design Patterns e Unit Tests desenvolvidos durante as aulas de ES2 (2019/2020).
 
