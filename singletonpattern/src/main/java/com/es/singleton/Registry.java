@@ -1,4 +1,4 @@
-package com.es2.singleton;
+package com.es.singleton;
 
 public class Registry {
     private String path = null;

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for TrabalhosES2" enabled="true">
+        <sourceOutputDir name="../SingletonPattern/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../SingletonPattern/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="untitled" />
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="singletonpattern" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="33333" target="11" />
+      <module name="SingletonPattern" target="11" />
+      <module name="singletonpattern" target="11" />
+      <module name="TrabalhosES2" target="11" />
+      <module name="untitled" target="11" />
+      <module name="untitled1" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,4 +1,4 @@
-package com.es2.singleton;
+package com.es.singleton;
 
 import java.io.File;
 

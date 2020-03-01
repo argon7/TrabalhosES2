@@ -1,4 +1,4 @@
-package com.es2.singleton;
+package com.es.singleton;
 
 public class Singleton {
     public static void main(String[] args) {
@@ -6,9 +6,5 @@ public class Singleton {
         Registry registry2 = Registry.Registry("2", "2");
         System.out.println(registry.getPath());
         System.out.println(registry2.getPath());
-        if (registry2.getPath().equals(registry.getPath()))
-            System.out.println("OK");
-        else
-            System.out.println("Error: Registry was overwritten");
     }
 }

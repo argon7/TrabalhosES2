@@ -2,7 +2,7 @@
   <artifact type="jar" name="SingletonPattern:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/SingletonPattern_jar</output-path>
     <root id="archive" name="SingletonPattern.jar">
-      <element id="module-output" name="SingletonPattern" />
+      <element id="module-output" name="SingletonPattern222" />
     </root>
   </artifact>
 </component>

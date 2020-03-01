@@ -1,4 +1,5 @@
 # Trabalhos aula de Engenharia de Software 2
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/03d17dd7587042aeaf274d3584a18c8e)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=argon7/TrabalhosES2&amp;utm_campaign=Badge_Grade)
 
 Este Repositório contêm Design Patterns e Unit Tests desenvolvidos durante as aulas de ES2 (2019/2020).
@@ -7,9 +8,16 @@ Este Repositório contêm Design Patterns e Unit Tests desenvolvidos durante as 
 
 <b>Unit Test</b> é toda a aplicação de teste nas assinaturas de entrada e saída de um sistema. Consiste em validar dados válidos e inválidos via I/O (entrada/saída) sendo aplicado por desenvolvedores ou analistas de teste.
 
+## Roadmap
 
+Submissões
+* http://ec2-18-220-227-92.us-east-2.compute.amazonaws.com/static/login.html
+
+Trello
+
+* https://trello.com/b/1Gkf0oMZ
 ## Design Patterns / Unit Tests 
-1. [SingletonPattern](./SingletonPattern)
+1. [SingletonPattern](./singletonpattern)
 ## Documentação
 
 *  [Javadocs](https://argon7.github.io/TrabalhosES2/)
