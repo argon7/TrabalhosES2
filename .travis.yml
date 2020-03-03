@@ -1,1 +1,8 @@
+os:
+  - windows
+  - linux
+  - osx
 language: java
+install: true
+script:
+  - mvn install

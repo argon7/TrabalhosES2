@@ -1,6 +1,7 @@
 # Trabalhos aula de Engenharia de Software 2
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/03d17dd7587042aeaf274d3584a18c8e)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=argon7/TrabalhosES2&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.com/argon7/TrabalhosES2.svg?token=TdKbkE4GsRUaGKPb7pBK&branch=master)](https://travis-ci.com/argon7/TrabalhosES2)
 
 Este Repositório contêm Design Patterns e Unit Tests desenvolvidos durante as aulas de ES2 (2019/2020).
 
