@@ -3,6 +3,12 @@ os:
   - linux
   - osx
 language: java
-install: true
+jdk:
+  - oraclejdk11
+env:
+  - WORKDIR=singletonpattern
+before_script:
+  - cd $WORKDIR
+  - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
 script:
-  - mvn install
+  - mvn test -B
