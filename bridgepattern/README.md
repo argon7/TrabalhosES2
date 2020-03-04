@@ -1,24 +1,30 @@
-# Composite Pattern
+# Bridge Pattern
 
-O padrão Composite é um padrão estrutural que permite executar operações num objeto sem lidar diretamente com a hierarquia de objetos. Este padrão utiliza composição recursiva numa estrutura em árvore de objetos relacionados hierarquicamente. Esta estrutura permite processar objetivos primitivos e compósitos. Enquanto os objetos primitivos são indivisíveis, os objetos compósitos podem ser decompostos em outros compósitos ou objetivos primitivos.
+O padrão Bridge é um padrão estrutural que é utilizado em situações onde queremos separar a abstração da implementação do código.
 
-Uma escola é um exemplo de um compósito que pode ser dividido em outros compósitos (e.g., departamentos). Um departamento pode ser outro compósito de cursos. O curso pode ser outro compósito de alunos, enquanto que um aluno é um elemento primitivo (indecomponível).
+Neste padrão existe uma dependência do cliente relativamente à interface que permite o acesso a implementações de objetos criados dinamicamente durante a execução da aplicação. Desta forma é possível criar novas implementações sem alterar a estrutura de dependências.
 
-Na estrutura do Composite, o Component é definido numa classe abstrata para representar objetos primitivos e objetos compósitos. As restantes classes são subclasses do objeto Component. A interface da classe abstrata representa o denominador comum de ambas classes derivadas.
-
+O cliente interage sempre com o objeto que representa a interface com as implementações, que por sua vez delega os pedidos para o objeto pertencente à classe que contém a implementação. Desta forma, a implementação pode ser acrescentada em runtime, sem recompilar a aplicação. A imagem seguinte mostra a estrutura abstrata do padrão.
 <br><br>
 <p align="center">
-  <img src="https://argon7.github.io/TrabalhosES2/CompositePattern/resources/Composite.png">
+  <img src="https://argon7.github.io/TrabalhosES2/BridgePattern/resources/Bridge.png">
 </p>
 <br>
 
 ## Exercício
 
-Aplique o padrão Composite à descrição de opções de um menu HTML. O menu pode ter opções e subopções, no entanto, apenas as opções finais têm links para páginas.
+Aplique o padrão Bridge a um componente que permita o acesso a vários serviços instanciados dinamicamente para armazenar e obter conteúdos.
 
+A classe que serve de interface deve fornecer:
+
+- os métodos gerais presentes na especificação;
+
+- uma especialização do método getContent que permita obter todo o conteúdo agregado de um serviço.
+
+Como o conteúdo está armazenado num hashmap, a classe LinkedHashMap tem de ser utilizada em vez da classe HashMap tradicional, para garantir que os dados sejam acedidos iterativamente pela ordem de inserção.
 ## Links
 
-* [Documentação](https://argon7.github.io/TrabalhosES2/CompositePattern/javadoc/index.html)
-* [PDF do exercício](https://argon7.github.io/TrabalhosES2/CompositePattern/resources/ExCompositePattern.pdf)
-* https://sourcemaking.com/design_patterns/composite
+* [Documentação](https://argon7.github.io/TrabalhosES2/BridgePattern/javadoc/index.html)
+* [PDF do exercício](https://argon7.github.io/TrabalhosES2/BridgePattern/resources/ExBridgePattern.pdf)
+* https://sourcemaking.com/design_patterns/bridge
 * https://sourcemaking.com/design_patterns/structural_patterns

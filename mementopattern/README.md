@@ -1,7 +1,7 @@
 # Memento Pattern
 
 O padrão Memento é um padrão comportamental utilizado quando o estado do objeto necessita de ser guardado fora do mesmo, de forma a restaurar esse estado posteriormente. Este padrão é utilizado em situações em que é necessário fazer rollback/undo do estado do objeto ou proteger esse estado de uma forma independente do objeto que o gerou.
-
+<br><br>
 <p align="center">
   <img src="https://argon7.github.io/TrabalhosES2/MementoPattern/resources/Memento.png">
 </p>
