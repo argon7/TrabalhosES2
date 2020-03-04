@@ -19,7 +19,9 @@ Trello
 * https://trello.com/b/1Gkf0oMZ
 ## Design Patterns / Unit Tests 
 1. [SingletonPattern](./singletonpattern)
+2. [ObjectPoolPattern](./objectpoolpattern)
 ## Documentação
 
 *  [Javadocs](https://argon7.github.io/TrabalhosES2/)
 1. [SingletonPattern](https://argon7.github.io/TrabalhosES2/SingletonPattern/javadoc/index.html)
+2. [ObjectPoolPattern](https://argon7.github.io/TrabalhosES2/ObjectPoolPattern/javadoc/index.html)
