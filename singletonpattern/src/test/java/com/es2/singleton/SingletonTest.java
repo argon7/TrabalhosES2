@@ -11,4 +11,20 @@ public class SingletonTest {
     @Test
     public void main() {
     }
+
+    @Test
+    public void testPrintPath() {
+    }
+
+    @Test
+    public void testMain() {
+    }
+
+    @Test
+    public void testPrintPath1() {
+    }
+
+    @Test
+    public void testMain1() {
+    }
 }

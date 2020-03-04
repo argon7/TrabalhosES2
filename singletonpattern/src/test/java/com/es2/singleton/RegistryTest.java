@@ -2,7 +2,6 @@ package com.es2.singleton;
 
 
 import org.junit.Test;
-import org.junit.runner.RunWith;
 
 public class RegistryTest {
 
@@ -32,5 +31,9 @@ public class RegistryTest {
 
     @Test
     public void getConnectionString() {
+    }
+
+    @Test
+    public void testGetPath() {
     }
 }

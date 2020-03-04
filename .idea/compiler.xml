@@ -18,8 +18,8 @@
     <bytecodeTargetLevel>
       <module name="33333" target="11" />
       <module name="SingletonPattern" target="11" />
-      <module name="singletonpattern" target="11" />
-      <module name="TrabalhosES2" target="11" />
+      <module name="singletonpattern" target="1.6" />
+      <module name="TrabalhosES2" target="1.6" />
       <module name="untitled" target="11" />
       <module name="untitled1" target="11" />
     </bytecodeTargetLevel>
