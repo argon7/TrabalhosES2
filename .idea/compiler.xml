@@ -12,12 +12,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="factorypattern" />
         <module name="objectpoolpattern" />
         <module name="singletonpattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="33333" target="11" />
+      <module name="factorypattern" target="1.6" />
       <module name="objectpoolpattern" target="1.6" />
       <module name="SingletonPattern" target="11" />
       <module name="singletonpattern" target="1.6" />
