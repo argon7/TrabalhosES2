@@ -12,6 +12,7 @@
         <module>singletonpattern</module>
         <module>objectpoolpattern</module>
         <module>factorypattern</module>
+        <module>bridgepattern</module>
     </modules>
 
     <properties>

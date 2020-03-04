@@ -21,9 +21,11 @@ Trello
 1. [SingletonPattern](./singletonpattern)
 2. [ObjectPoolPattern](./objectpoolpattern)
 3. [FactoryPattern](./factorypattern)
+4. [BridgePattern](./bridgepattern)
 ## Documentação
 
 *  [Javadocs](https://argon7.github.io/TrabalhosES2/)
 1. [SingletonPattern](https://argon7.github.io/TrabalhosES2/SingletonPattern/javadoc/index.html)
 2. [ObjectPoolPattern](https://argon7.github.io/TrabalhosES2/ObjectPoolPattern/javadoc/index.html)
 3. [FactoryPattern](https://argon7.github.io/TrabalhosES2/FactoryPattern/javadoc/index.html)
+4. [BridgePattern](https://argon7.github.io/TrabalhosES2/BridgePattern/javadoc/index.html)
