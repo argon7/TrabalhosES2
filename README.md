@@ -22,6 +22,8 @@ Trello
 2. [ObjectPoolPattern](./objectpoolpattern)
 3. [FactoryPattern](./factorypattern)
 4. [BridgePattern](./bridgepattern)
+5. [CompositePattern](./compositepattern)
+6. [MementoPattern](./mementopattern)
 ## Documentação
 
 *  [Javadocs](https://argon7.github.io/TrabalhosES2/)
@@ -29,3 +31,5 @@ Trello
 2. [ObjectPoolPattern](https://argon7.github.io/TrabalhosES2/ObjectPoolPattern/javadoc/index.html)
 3. [FactoryPattern](https://argon7.github.io/TrabalhosES2/FactoryPattern/javadoc/index.html)
 4. [BridgePattern](https://argon7.github.io/TrabalhosES2/BridgePattern/javadoc/index.html)
+5. [CompositePattern](https://argon7.github.io/TrabalhosES2/CompositePattern/javadoc/index.html)
+6. [MementoPattern](https://argon7.github.io/TrabalhosES2/MementoPattern/javadoc/index.html)

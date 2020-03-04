@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TrabalhosES2.iml" filepath="$PROJECT_DIR$/TrabalhosES2.iml" />
       <module fileurl="file://$PROJECT_DIR$/bridgepattern/bridgepattern.iml" filepath="$PROJECT_DIR$/bridgepattern/bridgepattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compositepattern/compositepattern.iml" filepath="$PROJECT_DIR$/compositepattern/compositepattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factorypattern/factorypattern.iml" filepath="$PROJECT_DIR$/factorypattern/factorypattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mementopattern/mementopattern.iml" filepath="$PROJECT_DIR$/mementopattern/mementopattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/objectpoolpattern/objectpoolpattern.iml" filepath="$PROJECT_DIR$/objectpoolpattern/objectpoolpattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singletonpattern/singletonpattern.iml" filepath="$PROJECT_DIR$/singletonpattern/singletonpattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />

@@ -13,6 +13,8 @@
         <module>objectpoolpattern</module>
         <module>factorypattern</module>
         <module>bridgepattern</module>
+        <module>compositepattern</module>
+        <module>mementopattern</module>
     </modules>
 
     <properties>

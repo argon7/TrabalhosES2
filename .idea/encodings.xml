@@ -3,8 +3,12 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/bridgepattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bridgepattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/compositepattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/compositepattern/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/factorypattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/factorypattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mementopattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mementopattern/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/objectpoolpattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/objectpoolpattern/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/singletonpattern/src/main/java" charset="UTF-8" />
