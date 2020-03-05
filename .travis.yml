@@ -7,7 +7,7 @@ env:
   - WORKDIR=singletonpattern
 before_script:
   - cd $WORKDIR
-  - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+  - mvn install -DskipTests=false -Dmaven.javadoc.skip=true -B -V
 script:
   - mvn test -B
 before_install:
