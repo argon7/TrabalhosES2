@@ -25,6 +25,7 @@ Trello
 4. [BridgePattern](./bridgepattern)
 5. [CompositePattern](./compositepattern)
 6. [MementoPattern](./mementopattern)
+7. [DecoratorPattern](./decoratorpattern)
 ## Documentação
 
 *  [Javadocs](https://argon7.github.io/TrabalhosES2/)
@@ -34,3 +35,4 @@ Trello
 4. [BridgePattern](https://argon7.github.io/TrabalhosES2/BridgePattern/javadoc/index.html)
 5. [CompositePattern](https://argon7.github.io/TrabalhosES2/CompositePattern/javadoc/index.html)
 6. [MementoPattern](https://argon7.github.io/TrabalhosES2/MementoPattern/javadoc/index.html)
+7. [DecoratorPattern](https://argon7.github.io/TrabalhosES2/DecoratorPattern/javadoc/index.html)
