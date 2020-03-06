@@ -36,4 +36,8 @@ public class RegistryTest {
     @Test
     public void testGetPath() {
     }
+
+    @Test
+    public void testGetPath1() {
+    }
 }
