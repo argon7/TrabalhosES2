@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="compositepattern:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/compositepattern_jar</output-path>
+    <root id="archive" name="compositepattern.jar">
+      <element id="module-output" name="compositepattern" />
+    </root>
+  </artifact>
+</component>
