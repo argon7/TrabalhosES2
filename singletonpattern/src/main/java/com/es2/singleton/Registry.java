@@ -8,7 +8,7 @@ public class Registry {
     private Registry() {
     }
 
-    public static Registry Registry(String path, String connectionString) {
+    public static Registry getInstance() {
         if (instance == null)
             synchronized (Registry.class) {
                 if (instance == null)
@@ -21,13 +21,6 @@ public class Registry {
         this.path = path;
     }
 
-    public static Registry getInstance() {
-        return instance;
-    }
-
-    public static void setInstance(Registry instance) {
-        Registry.instance = instance;
-    }
 
     public String getConnectionString() {
         return connectionString;
