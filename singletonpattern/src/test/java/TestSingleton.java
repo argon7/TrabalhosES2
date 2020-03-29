@@ -1,4 +1,5 @@
-package com.es2.singleton;
+import com.es2.singleton.End;
+import com.es2.singleton.Registry;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Assertions;
@@ -7,10 +8,10 @@ import org.junit.jupiter.api.Test;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Modifier;
 
-public class RegistryTest {
+public class TestSingleton {
     @AfterAll
     static void tearDown() {
-        new End();
+        End e = new End();
     }
 
     @Test

@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/singletonpattern_jar</output-path>
     <root id="archive" name="singletonpattern.jar">
       <element id="module-output" name="singletonpattern" />
+      <element id="module-test-output" name="singletonpattern" />
     </root>
   </artifact>
 </component>
