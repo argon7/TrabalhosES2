@@ -24,3 +24,6 @@ Pretende-se neste exercício aplicar o padrão Singleton a uma estrutura global 
 * [PDF do exercício](https://argon7.github.io/TrabalhosES2/SingletonPattern/resources/ExSingletonPattern.pdf)
 * https://sourcemaking.com/design_patterns/singleton
 
+## Tests
+* https://www.vogella.com/tutorials/JUnit/article.html
+* [PDF test](https://argon7.github.io/TrabalhosES2/SingletonPattern/resources/TSingletonPattern.pdf)

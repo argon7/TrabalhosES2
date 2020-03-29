@@ -32,3 +32,8 @@ Aplique o padrão Decorator a um componente responsável por fazer a autenticaç
 * [PDF do exercício](https://argon7.github.io/TrabalhosES2/DecoratorPattern/resources/ExDecoratorPattern.pdf)
 * https://sourcemaking.com/design_patterns/decorator
 * https://sourcemaking.com/design_patterns/structural_patterns
+
+## Tests
+
+* https://www.tutorialspoint.com/software_testing_dictionary/decision_coverage_testing.htm
+* [PDF](https://argon7.github.io/TrabalhosES2/DecoratorPattern/resources/TDecoratorPattern.pdf)

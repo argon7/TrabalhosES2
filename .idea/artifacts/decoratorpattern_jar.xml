@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/decoratorpattern_jar</output-path>
     <root id="archive" name="decoratorpattern.jar">
       <element id="module-output" name="decoratorpattern" />
+      <element id="module-test-output" name="decoratorpattern" />
     </root>
   </artifact>
 </component>
