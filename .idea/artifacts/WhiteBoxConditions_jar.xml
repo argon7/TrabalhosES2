@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WhiteBoxConditions:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WhiteBoxConditions_jar</output-path>
+    <root id="archive" name="WhiteBoxConditions.jar">
+      <element id="module-output" name="WhiteBoxConditions" />
+      <element id="module-test-output" name="WhiteBoxConditions" />
+    </root>
+  </artifact>
+</component>

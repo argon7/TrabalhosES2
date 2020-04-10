@@ -14,10 +14,11 @@ Este Repositório contêm Design Patterns e Unit Tests desenvolvidos durante as 
 
 Submissões
 * http://ec2-18-220-227-92.us-east-2.compute.amazonaws.com/static/login.html
-
 Trello
-
 * https://trello.com/b/1Gkf0oMZ
+<br><br> NEW SUBMISSION LINK:
+* http://193.137.7.54/static/login.html
+
 ## Design Patterns / Unit Tests 
 1. [SingletonPattern](./singletonpattern)
 2. [ObjectPoolPattern](./objectpoolpattern)
@@ -26,6 +27,7 @@ Trello
 5. [CompositePattern](./compositepattern)
 6. [MementoPattern](./mementopattern)
 7. [DecoratorPattern](./decoratorpattern)
+8. [WhiteBoxTest](./WhiteBoxTest)
 ## Documentação
 
 *  [Javadocs](https://argon7.github.io/TrabalhosES2/)
@@ -36,3 +38,4 @@ Trello
 5. [CompositePattern](https://argon7.github.io/TrabalhosES2/CompositePattern/javadoc/index.html)
 6. [MementoPattern](https://argon7.github.io/TrabalhosES2/MementoPattern/javadoc/index.html)
 7. [DecoratorPattern](https://argon7.github.io/TrabalhosES2/DecoratorPattern/javadoc/index.html)
+8. [WhiteBoxTest](https://argon7.github.io/TrabalhosES2/WhiteBoxTest/javadoc/index.html)

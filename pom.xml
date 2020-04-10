@@ -16,6 +16,8 @@
         <module>compositepattern</module>
         <module>mementopattern</module>
         <module>decoratorpattern</module>
+        <module>WhiteBoxConditions</module>
+        <module>WhiteBoxTest</module>
     </modules>
 
     <properties>

@@ -12,10 +12,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="compositepattern" />
         <module name="decoratorpattern" />
         <module name="mementopattern" />
         <module name="bridgepattern" />
+        <module name="compositepattern" />
+        <module name="WhiteBoxConditions" />
+        <module name="WhiteBoxTest" />
         <module name="singletonpattern" />
         <module name="factorypattern" />
         <module name="objectpoolpattern" />
@@ -34,6 +36,8 @@
       <module name="TrabalhosES2" target="1.8" />
       <module name="untitled" target="11" />
       <module name="untitled1" target="11" />
+      <module name="WhiteBoxConditions" target="1.8" />
+      <module name="WhiteBoxTest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
