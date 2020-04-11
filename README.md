@@ -28,6 +28,7 @@ Trello
 6. [MementoPattern](./mementopattern)
 7. [DecoratorPattern](./decoratorpattern)
 8. [WhiteBoxTest](./WhiteBoxTest)
+9. [WhiteBoxConditions](./WhiteBoxConditions)
 ## Documentação
 
 *  [Javadocs](https://argon7.github.io/TrabalhosES2/)
@@ -39,3 +40,4 @@ Trello
 6. [MementoPattern](https://argon7.github.io/TrabalhosES2/MementoPattern/javadoc/index.html)
 7. [DecoratorPattern](https://argon7.github.io/TrabalhosES2/DecoratorPattern/javadoc/index.html)
 8. [WhiteBoxTest](https://argon7.github.io/TrabalhosES2/WhiteBoxTest/javadoc/index.html)
+9. No javadocs for [WhiteBoxConditions](./WhiteBoxConditions)
