@@ -29,6 +29,7 @@ Trello
 7. [DecoratorPattern](./decoratorpattern)
 8. [WhiteBoxTest](./WhiteBoxTest)
 9. [WhiteBoxConditions](./WhiteBoxConditions)
+10. [EuroTDD](./EuroTDD)
 ## Documentação
 
 *  [Javadocs](https://argon7.github.io/TrabalhosES2/)
@@ -41,3 +42,4 @@ Trello
 7. [DecoratorPattern](https://argon7.github.io/TrabalhosES2/DecoratorPattern/javadoc/index.html)
 8. [WhiteBoxTest](https://argon7.github.io/TrabalhosES2/WhiteBoxTest/javadoc/index.html)
 9. No javadocs for [WhiteBoxConditions](./WhiteBoxConditions)
+10. No javadocs for [EuroTDD](./EuroTDD)

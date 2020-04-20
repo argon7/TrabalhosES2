@@ -18,6 +18,7 @@
         <module>decoratorpattern</module>
         <module>WhiteBoxConditions</module>
         <module>WhiteBoxTest</module>
+        <module>EuroTDD</module>
     </modules>
 
     <properties>

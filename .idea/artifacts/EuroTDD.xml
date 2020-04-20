@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EuroTDD">
+    <output-path>$PROJECT_DIR$/out/artifacts/EuroTDD</output-path>
+    <root id="archive" name="EuroTDD.jar">
+      <element id="module-test-output" name="EuroTDD" />
+    </root>
+  </artifact>
+</component>
