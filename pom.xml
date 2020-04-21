@@ -19,6 +19,7 @@
         <module>WhiteBoxConditions</module>
         <module>WhiteBoxTest</module>
         <module>EuroTDD</module>
+        <module>EmailGWIntegration</module>
     </modules>
 
     <properties>

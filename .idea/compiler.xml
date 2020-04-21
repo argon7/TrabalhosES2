@@ -17,6 +17,7 @@
         <module name="mementopattern" />
         <module name="bridgepattern" />
         <module name="compositepattern" />
+        <module name="EmailGWIntegration" />
         <module name="WhiteBoxConditions" />
         <module name="WhiteBoxTest" />
         <module name="singletonpattern" />
@@ -29,6 +30,7 @@
       <module name="bridgepattern" target="1.8" />
       <module name="compositepattern" target="1.8" />
       <module name="decoratorpattern" target="1.8" />
+      <module name="EmailGWIntegration" target="1.8" />
       <module name="EuroTDD" target="1.8" />
       <module name="factorypattern" target="1.8" />
       <module name="mementopattern" target="1.8" />

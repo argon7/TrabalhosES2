@@ -30,6 +30,8 @@ Trello
 8. [WhiteBoxTest](./WhiteBoxTest)
 9. [WhiteBoxConditions](./WhiteBoxConditions)
 10. [EuroTDD](./EuroTDD)
+11. [EmailGWIntegration](./EmailGWIntegration)
+
 ## Documentação
 
 *  [Javadocs](https://argon7.github.io/TrabalhosES2/)
@@ -43,3 +45,4 @@ Trello
 8. [WhiteBoxTest](https://argon7.github.io/TrabalhosES2/WhiteBoxTest/javadoc/index.html)
 9. No javadocs for [WhiteBoxConditions](./WhiteBoxConditions)
 10. No javadocs for [EuroTDD](./EuroTDD)
+10. No javadocs for [EmailGWIntegration](./EmailGWIntegration)
