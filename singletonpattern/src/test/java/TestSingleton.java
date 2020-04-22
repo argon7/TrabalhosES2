@@ -1,5 +1,5 @@
-import com.es2.singleton.End;
-import com.es2.singleton.Registry;
+import com.singleton.End;
+import com.singleton.Registry;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Assertions;

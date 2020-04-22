@@ -1,5 +1,5 @@
-import com.es2.whiteboxconditions.End;
-import com.es2.whiteboxconditions.Rating;
+import com.whiteboxconditions.End;
+import com.whiteboxconditions.Rating;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Test;

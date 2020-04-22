@@ -1,6 +1,8 @@
-import com.es2.decorator.*;
+import com.decorator.Auth;
+import com.decorator.AuthException;
+import com.decorator.CommonWordsValidator;
+import com.decorator.End;
 import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
