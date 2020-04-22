@@ -50,9 +50,9 @@ However, one stub for the Repository component should hold canned answers that m
 
 - Is the customer saved in the database after invoking the save method?
 
-Finally, since the repository is under the programmer's control, he/she may decide that the real component contribution is higher than the stub counterpart for testing purposes.
+Finally, since the com.es2.repository is under the programmer's control, he/she may decide that the real component contribution is higher than the stub counterpart for testing purposes.
 
-The next step is to integrate the repository with the real CustomerController.
+The next step is to integrate the com.es2.repository with the real CustomerController.
 
 
 ## Mocks or Stubs
@@ -71,7 +71,7 @@ Create a new Test Case (named EmailGWIntegration) and add a new test that:
 
 -creates a new customer
 
--asserts each of the customer's fields stored in the repository
+-asserts each of the customer's fields stored in the com.es2.repository
 
 -sends a greeting message to the customer
 
