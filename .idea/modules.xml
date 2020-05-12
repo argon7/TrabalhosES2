@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/TrabalhosES2.iml" filepath="$PROJECT_DIR$/TrabalhosES2.iml" />
       <module fileurl="file://$PROJECT_DIR$/WhiteBoxConditions/WhiteBoxConditions.iml" filepath="$PROJECT_DIR$/WhiteBoxConditions/WhiteBoxConditions.iml" />
       <module fileurl="file://$PROJECT_DIR$/WhiteBoxTest/WhiteBoxTest.iml" filepath="$PROJECT_DIR$/WhiteBoxTest/WhiteBoxTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blackboxpartitioning/blackboxpartitioning.iml" filepath="$PROJECT_DIR$/blackboxpartitioning/blackboxpartitioning.iml" />
       <module fileurl="file://$PROJECT_DIR$/bridgepattern/bridgepattern.iml" filepath="$PROJECT_DIR$/bridgepattern/bridgepattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/compositepattern/compositepattern.iml" filepath="$PROJECT_DIR$/compositepattern/compositepattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/decoratorpattern/decoratorpattern.iml" filepath="$PROJECT_DIR$/decoratorpattern/decoratorpattern.iml" />

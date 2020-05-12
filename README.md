@@ -31,6 +31,7 @@ Trello
 9. [WhiteBoxConditions](./WhiteBoxConditions)
 10. [EuroTDD](./EuroTDD)
 11. [EmailGWIntegration](./EmailGWIntegration)
+12. [blackboxpartitioning](./blackboxpartitioning)
 
 ## Documentação
 
@@ -45,4 +46,5 @@ Trello
 8. [WhiteBoxTest](https://argon7.github.io/TrabalhosES2/WhiteBoxTest/javadoc/index.html)
 9. No javadocs for [WhiteBoxConditions](./WhiteBoxConditions)
 10. No javadocs for [EuroTDD](./EuroTDD)
-10. No javadocs for [EmailGWIntegration](./EmailGWIntegration)
+11. No javadocs for [EmailGWIntegration](./EmailGWIntegration)
+12. No javadocs for [blackboxpartitioning](https://argon7.github.io/TrabalhosES2/blackboxpartitioning/javadoc/index.html)

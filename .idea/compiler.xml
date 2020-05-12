@@ -17,6 +17,7 @@
         <module name="mementopattern" />
         <module name="bridgepattern" />
         <module name="compositepattern" />
+        <module name="blackboxpartitioning" />
         <module name="EmailGWIntegration" />
         <module name="WhiteBoxConditions" />
         <module name="WhiteBoxTest" />
@@ -27,6 +28,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="33333" target="11" />
+      <module name="blackboxpartitioning" target="1.8" />
       <module name="bridgepattern" target="1.8" />
       <module name="compositepattern" target="1.8" />
       <module name="decoratorpattern" target="1.8" />

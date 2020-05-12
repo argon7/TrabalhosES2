@@ -1,9 +1,15 @@
 package com.factorymethod;
 
+/**
+ * The type Software.
+ */
 public class Software implements Product {
 
     private String brand = null;
 
+    /**
+     * Instantiates a new Software.
+     */
     protected Software() {
     }
 

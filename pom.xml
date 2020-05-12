@@ -20,6 +20,7 @@
         <module>WhiteBoxTest</module>
         <module>EuroTDD</module>
         <module>EmailGWIntegration</module>
+        <module>blackboxpartitioning</module>
     </modules>
 
     <properties>

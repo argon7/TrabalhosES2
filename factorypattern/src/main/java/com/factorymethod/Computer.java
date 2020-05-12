@@ -1,9 +1,15 @@
 package com.factorymethod;
 
+/**
+ * The type Computer.
+ */
 public class Computer implements Product {
 
     private String brand = null;
 
+    /**
+     * Instantiates a new Computer.
+     */
     protected Computer() {
     }
 
