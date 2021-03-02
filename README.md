@@ -10,15 +10,6 @@ Este Repositório contêm Design Patterns e Unit Tests desenvolvidos durante as 
 
 <b>Unit Test</b> é toda a aplicação de teste nas assinaturas de entrada e saída de um sistema. Consiste em validar dados válidos e inválidos via I/O (entrada/saída) sendo aplicado por desenvolvedores ou analistas de teste.
 
-## Project Management
-
-Submissões
-* http://ec2-18-220-227-92.us-east-2.compute.amazonaws.com/static/login.html
-Trello
-* https://trello.com/b/1Gkf0oMZ
-<br><br> NEW SUBMISSION LINK:
-* http://193.137.7.54/static/login.html
-
 ## Design Patterns / Unit Tests 
 1. [SingletonPattern](./singletonpattern)
 2. [ObjectPoolPattern](./objectpoolpattern)
